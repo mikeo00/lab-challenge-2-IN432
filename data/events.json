@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Intro to Docker for Web Developers",
+    "category": "Tech",
+    "date": "Week 3, Tuesday 17:00",
+    "location": "Lab B204",
+    "capacity": 30,
+    "registered": 24,
+    "organizer": "Web Club"
+  },
+  {
+    "id": 2,
+    "title": "Campus Football Tournament",
+    "category": "Sports",
+    "date": "Week 3, Saturday 09:00",
+    "location": "Main Field",
+    "capacity": 120,
+    "registered": 120,
+    "organizer": "Sports Office"
+  },
+  {
+    "id": 3,
+    "title": "Career Fair: Software & Data",
+    "category": "Career",
+    "date": "Week 4, Wednesday 10:00",
+    "location": "Auditorium",
+    "capacity": 300,
+    "registered": 187,
+    "organizer": "Career Center"
+  },
+  {
+    "id": 4,
+    "title": "React Hooks Workshop",
+    "category": "Tech",
+    "date": "Week 4, Thursday 15:00",
+    "location": "Lab B201",
+    "capacity": 25,
+    "registered": 25,
+    "organizer": "Web Club"
+  },
+  {
+    "id": 5,
+    "title": "Photography Exhibition Opening",
+    "category": "Culture",
+    "date": "Week 5, Monday 18:00",
+    "location": "Gallery Hall",
+    "capacity": 80,
+    "registered": 41,
+    "organizer": "Arts Society"
+  },
+  {
+    "id": 6,
+    "title": "Hackathon: Build for Campus",
+    "category": "Tech",
+    "date": "Week 6, Friday 18:00",
+    "location": "Innovation Hub",
+    "capacity": 60,
+    "registered": 58,
+    "organizer": "Innovation Hub"
+  },
+  {
+    "id": 7,
+    "title": "CV & Interview Clinic",
+    "category": "Career",
+    "date": "Week 6, Tuesday 12:00",
+    "location": "Room C110",
+    "capacity": 20,
+    "registered": 9,
+    "organizer": "Career Center"
+  },
+  {
+    "id": 8,
+    "title": "Basketball 3x3 Night",
+    "category": "Sports",
+    "date": "Week 7, Thursday 19:00",
+    "location": "Sports Hall",
+    "capacity": 48,
+    "registered": 30,
+    "organizer": "Sports Office"
+  }
+]
